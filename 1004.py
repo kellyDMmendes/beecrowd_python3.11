@@ -1,5 +1,5 @@
 #1004 - Produto Simples
-n1 = int(input())
-n2 = int(input())
-prod = n1 * n2
+a = int(input())
+b = int(input())
+prod = a * b
 print("PROD = {}".format(prod))
