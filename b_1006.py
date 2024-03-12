@@ -1,4 +1,4 @@
-"""b_1006 - Hello World!"""
+""" b_1006 - Média 2 """
 a = float(input())
 b = float(input())
 c = float(input())
