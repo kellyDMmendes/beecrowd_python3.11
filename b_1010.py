@@ -1,4 +1,4 @@
-# 1010 - Cálculo Simples
+"""b_1010 - Hello World!"""
 cont = 0
 valorT = 0
 
