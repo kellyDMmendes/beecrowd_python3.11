@@ -1,4 +1,4 @@
-# 1001 - Extremamente Básico
+"""b_1001 - Hello World!"""
 a = int(input())
 b = int(input())
 
