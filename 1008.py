@@ -2,6 +2,8 @@
 n = int(input())
 h = int(input())
 vh = float(input())
+
 sal = h * vh
-print("NUMBER = {}".format(n))
-print("SALARY = U$ {:.2f}".format(sal))
+
+print(f'NUMBER = {n}')
+print(f'SALARY = U$ {sal:.2f}')
