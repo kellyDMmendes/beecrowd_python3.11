@@ -1,4 +1,4 @@
-# 1003 - Soma Simples
+"""b_1003 - Hello World!"""
 a = int(input())
 b = int(input())
 
