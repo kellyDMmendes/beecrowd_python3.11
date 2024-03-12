@@ -1,4 +1,4 @@
-# 1002 - Área do Círculo
+"""b_1002 - Hello World!"""
 raio = float(input())
 
 n = 3.14159
