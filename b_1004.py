@@ -1,4 +1,4 @@
-"""b_1004 - Hello World!"""
+""" b_1004 - Produto Simples """
 a = int(input())
 b = int(input())
 
