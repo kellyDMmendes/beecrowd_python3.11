@@ -1,13 +1,13 @@
-"""b_1010 - Hello World!"""
-cont = 0
-valorT = 0
+""" b_1010 - Cálculo Simples """
+CONT = 0
+VALOR = 0
 
-while cont < 2:
+while CONT < 2:
     cod, numPecas, valUnit = input().split()
 
     valor = int(numPecas) * float(valUnit)
-    valorT += valor
+    VALOR += valor
 
-    cont += 1
+    CONT += 1
 
-print(f"VALOR A PAGAR: R$ {valorT:.2f}")
+print(f"VALOR A PAGAR: R$ {VALOR:.2f}")
