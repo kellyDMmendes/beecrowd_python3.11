@@ -1,4 +1,4 @@
-# 1007 - Diferença
+"""b_1007 - Hello World!"""
 a = int(input())
 b = int(input())
 c = int(input())
