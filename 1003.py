@@ -1,7 +1,7 @@
-#1003 - Soma Simples
+# 1003 - Soma Simples
 a = int(input())
 b = int(input())
 
 soma = a + b
 
-print(f'SOMA = {soma}')
+print(f"SOMA = {soma}")
