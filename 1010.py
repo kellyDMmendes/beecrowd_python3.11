@@ -1,4 +1,4 @@
-#1010 - Cálculo Simples
+# 1010 - Cálculo Simples
 cont = 0
 valorT = 0
 
@@ -10,4 +10,4 @@ while cont < 2:
 
     cont += 1
 
-print(f'VALOR A PAGAR: R$ {valorT:.2f}')
+print(f"VALOR A PAGAR: R$ {valorT:.2f}")
