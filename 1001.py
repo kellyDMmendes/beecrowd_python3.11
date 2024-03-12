@@ -1,7 +1,7 @@
-#1001 - Extremamente Básico
+# 1001 - Extremamente Básico
 a = int(input())
 b = int(input())
 
 x = a + b
 
-print(f'X = {x}')
+print(f"X = {x}")
