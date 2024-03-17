@@ -11,7 +11,3 @@ if b > c and d > a:
             print("Valores aceitos")
         else:
             print("Valores nao aceitos")
-    else:
-        print("Valores nao aceitos")
-else:
-    print("Valores nao aceitos")
