@@ -1,7 +1,7 @@
 """ b_1114 - Senha Fixa """
-senha_correta = 2002
+SENHA = 2002
 senha = int(input())
-while senha != senha_correta:
+while senha != SENHA:
     print("Senha Invalida")
     senha = int(input())
 print("Acesso Permitido")
