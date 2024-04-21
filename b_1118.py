@@ -15,6 +15,6 @@ while NOVO == 1:
     CONT = 0
     print("novo calculo (1-sim 2-nao)")
     NOVO = int(input())
-    if NOVO != 1 and NOVO != 2:
+    while NOVO != 1 and NOVO != 2:
         print("novo calculo (1-sim 2-nao)")
         NOVO = int(input())
