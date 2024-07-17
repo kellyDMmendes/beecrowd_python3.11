@@ -1,4 +1,4 @@
-""" b_1132 - Múltiplos de 13 """
+""" 1132 - Múltiplos de 13 """
 SOMA = 0
 x = int(input())
 y = int(input())
