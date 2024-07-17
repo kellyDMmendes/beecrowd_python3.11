@@ -1,4 +1,4 @@
-""" b_1071 - Soma de Ímpares Consecutivos I"""
+""" 1071 - Soma de Ímpares Consecutivos I"""
 IMP = 0
 x = int(input())
 y = int(input())
