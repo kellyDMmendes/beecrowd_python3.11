@@ -1,4 +1,4 @@
-""" b_1018 - Cédulas """
+""" 1018 - Cédulas """
 CEM = 0
 CINQUENTA = 0
 VINTE = 0
