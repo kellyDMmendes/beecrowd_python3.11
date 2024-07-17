@@ -1,4 +1,4 @@
-""" b_1043 - Triângulo """
+""" 1043 - Triângulo """
 a, b, c = input().split()
 a = float(a)
 b = float(b)
