@@ -1,4 +1,4 @@
-""" b_1017 - Gasto de Combustível """
+""" 1017 - Gasto de Combustível """
 tempo = int(input())
 velocidade = int(input())
 
