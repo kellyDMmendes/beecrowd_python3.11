@@ -1,4 +1,4 @@
-""" b_1142 - PUM """
+""" 1142 - PUM """
 PUM = 1
 n = int(input())
 for i in range(n):
