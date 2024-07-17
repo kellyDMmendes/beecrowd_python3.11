@@ -1,4 +1,4 @@
-""" b_1038 - Lanche """
+""" 1038 - Lanche """
 cod, quant = input().split()
 cod = int(cod)
 quant = int(quant)
