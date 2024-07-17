@@ -1,4 +1,4 @@
-""" b_1050 - DDD """
+""" 1050 - DDD """
 ddd = int(input())
 
 if ddd == 11:
