@@ -1,4 +1,4 @@
-""" b_1012 - Área """
+""" 1012 - Área """
 PI = 3.14159
 a, b, c = input().split()
 a = float(a)
