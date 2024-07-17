@@ -1,4 +1,4 @@
-""" b_1016 - Distância """
+""" 1016 - Distância """
 distancia = int(input())
 
 tempo = distancia * 2
