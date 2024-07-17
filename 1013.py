@@ -1,4 +1,4 @@
-""" b_1013 - O Maior """
+""" 1013 - O Maior """
 a, b, c = input().split()
 a = int(a)
 b = int(b)
