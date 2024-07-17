@@ -1,4 +1,4 @@
-""" b_1048 - Aumento de Salário """
+""" 1048 - Aumento de Salário """
 salario = float(input())
 
 if salario <= 400:
