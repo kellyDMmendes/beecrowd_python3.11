@@ -1,4 +1,4 @@
-""" b_1064 - Positivos e Médias """
+""" 1064 - Positivos e Médias """
 POS = 0
 MEDIA = 0
 CONT = 0
