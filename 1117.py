@@ -1,4 +1,4 @@
-""" b_1117 - Validação de Nota """
+""" 1117 - Validação de Nota """
 MEDIA = 0
 CONT = 0
 while CONT < 2:
