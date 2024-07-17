@@ -1,4 +1,4 @@
-""" b_1075 - Resto 2 """
+""" 1075 - Resto 2 """
 CONT = 1
 n = int(input())
 
