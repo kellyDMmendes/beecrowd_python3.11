@@ -1,4 +1,4 @@
-""" b_1133 - Resto da Divisão """
+""" 1133 - Resto da Divisão """
 x = int(input())
 y = int(input())
 if x > y:
