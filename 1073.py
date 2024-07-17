@@ -1,4 +1,4 @@
-""" b_1073 - Quadrado de Pares """
+""" 1073 - Quadrado de Pares """
 CONT = 1
 n = int(input())
 
