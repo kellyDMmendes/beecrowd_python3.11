@@ -1,4 +1,4 @@
-""" b_1005 - Média 1 """
+""" 1005 - Média 1 """
 a = float(input())
 b = float(input())
 
