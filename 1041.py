@@ -1,4 +1,4 @@
-""" b_1041 - Coordenadas de um Ponto """
+""" 1041 - Coordenadas de um Ponto """
 x, y = input(). split()
 x = float(x)
 y = float(y)
