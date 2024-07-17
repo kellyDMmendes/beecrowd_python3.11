@@ -1,4 +1,4 @@
-""" b_1079 - Médias Ponderadas """
+""" 1079 - Médias Ponderadas """
 CONT = 0
 n = int(input())
 
