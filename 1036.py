@@ -1,4 +1,4 @@
-""" b_1036 - Fórmula de Bhaskara """
+""" 1036 - Fórmula de Bhaskara """
 from math import sqrt
 a, b, c = input().split()
 a = float(a)
