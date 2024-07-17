@@ -1,4 +1,4 @@
-""" b_1144 - Sequência Lógica """
+""" 1144 - Sequência Lógica """
 n = int(input())
 for i in range(1, n+1):
     x = i
