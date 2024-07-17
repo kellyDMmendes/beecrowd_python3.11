@@ -1,4 +1,4 @@
-""" b_1115 - Quadrante """
+""" 1115 - Quadrante """
 x, y = input().split()
 x = int(x)
 y = int(y)
