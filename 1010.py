@@ -1,4 +1,4 @@
-""" b_1010 - Cálculo Simples """
+""" 1010 - Cálculo Simples """
 CONT = 0
 VALOR = 0
 
