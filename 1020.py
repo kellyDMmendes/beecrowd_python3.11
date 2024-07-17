@@ -1,4 +1,4 @@
-""" b_1020 - Idade em Dias """
+""" 1020 - Idade em Dias """
 ANO = 0
 MES = 0
 DIA = 0
