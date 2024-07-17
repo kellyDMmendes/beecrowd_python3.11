@@ -1,4 +1,4 @@
-""" b_1046 - Tempo de Jogo """
+""" 1046 - Tempo de Jogo """
 hi, hf = input().split()
 hi = int(hi)
 hf = int(hf)
