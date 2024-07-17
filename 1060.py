@@ -1,4 +1,4 @@
-""" b_1060 - Números Positivos """
+""" 1060 - Números Positivos """
 POS = 0
 CONT = 0
 
