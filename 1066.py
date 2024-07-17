@@ -1,4 +1,4 @@
-""" b_1066 - Pares, Ímpares, Positivos e Negativos """
+""" 1066 - Pares, Ímpares, Positivos e Negativos """
 PAR = 0
 IMP = 0
 POS = 0
