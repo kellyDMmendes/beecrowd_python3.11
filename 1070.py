@@ -1,4 +1,4 @@
-""" b_1070 - Seis Números Ímpares """
+""" 1070 - Seis Números Ímpares """
 IMP = 0
 x = int(input())
 
