@@ -1,4 +1,4 @@
-""" b_1065 - Pares entre Cinco Números """
+""" 1065 - Pares entre Cinco Números """
 PAR = 0
 CONT = 0
 
