@@ -1,4 +1,4 @@
-""" b_1014 - Consumo """
+""" 1014 - Consumo """
 distancia = int(input())
 combustivel = float(input())
 
