@@ -1,4 +1,4 @@
-""" b_1116 - Dividindo X por Y """
+""" 1116 - Dividindo X por Y """
 n = int(input())
 for i in range(n):
     x, y = input().split()
