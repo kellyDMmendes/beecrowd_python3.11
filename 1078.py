@@ -1,4 +1,4 @@
-""" b_1078 - Tabuada """
+""" 1078 - Tabuada """
 CONT = 1
 n = int(input())
 
