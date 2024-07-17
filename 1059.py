@@ -1,4 +1,4 @@
-""" b_1059 - Números Pares """
+""" 1059 - Números Pares """
 CONT = 1
 
 while CONT <= 100:
