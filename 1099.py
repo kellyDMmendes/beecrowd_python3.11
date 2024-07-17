@@ -1,4 +1,4 @@
-""" b_1099 - Soma de Ímpares Consecutivos II """
+""" 1099 - Soma de Ímpares Consecutivos II """
 IMP = 0
 n = int(input())
 for i in range(n):
