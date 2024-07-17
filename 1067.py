@@ -1,4 +1,4 @@
-""" b_1067 - Números Ímpares """
+""" 1067 - Números Ímpares """
 CONT = 1
 x = int(input())
 
