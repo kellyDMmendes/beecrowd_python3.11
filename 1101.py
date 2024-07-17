@@ -1,4 +1,4 @@
-""" b_1101 - Sequência de Números e Soma """
+""" 1101 - Sequência de Números e Soma """
 SOMA = 0
 m, n = input().split()
 m = int(m)
