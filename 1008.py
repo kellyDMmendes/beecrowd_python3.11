@@ -1,4 +1,4 @@
-""" b_1008 - Salário """
+""" 1008 - Salário """
 n = int(input())
 h = int(input())
 vh = float(input())
