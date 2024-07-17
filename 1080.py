@@ -1,4 +1,4 @@
-""" b_1080 - Maior e Posição """
+""" 1080 - Maior e Posição """
 MAIOR = 0
 CONT = 1
 
