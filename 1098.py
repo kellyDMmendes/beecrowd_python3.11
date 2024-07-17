@@ -1,4 +1,4 @@
-""" b_1098 - Sequencia IJ 4 """
+""" 1098 - Sequencia IJ 4 """
 i = 0
 j = 1
 I = 0
