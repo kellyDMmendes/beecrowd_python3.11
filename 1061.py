@@ -1,4 +1,4 @@
-""" b_1061 - Tempo de um Evento """
+""" 1061 - Tempo de um Evento """
 x1, diai = input(). split()
 horai, x1, mini, x2, segi = input().split()
 
