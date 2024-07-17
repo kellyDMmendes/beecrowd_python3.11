@@ -1,4 +1,4 @@
-""" b_1042 - Sort Simples """
+""" 1042 - Sort Simples """
 n1, n2, n3 = input().split()
 n1 = no1 = int(n1)
 n2 = no2 = int(n2)
