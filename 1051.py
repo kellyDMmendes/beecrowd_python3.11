@@ -1,4 +1,4 @@
-""" b_1051 - Imposto de Renda """
+""" 1051 - Imposto de Renda """
 IMPOSTO = 0
 ISENTO = 0
 salario = float(input())
