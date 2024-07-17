@@ -1,4 +1,4 @@
-""" b_1095 - Sequencia IJ 1 """
+""" 1095 - Sequencia IJ 1 """
 i = 1
 j = 60
 
