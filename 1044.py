@@ -1,4 +1,4 @@
-""" b_1044 - Múltiplos """
+""" 1044 - Múltiplos """
 a, b = input().split()
 a = int(a)
 b = int(b)
