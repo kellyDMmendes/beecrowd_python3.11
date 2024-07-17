@@ -1,4 +1,4 @@
-""" b_1049 - Animal """
+""" 1049 - Animal """
 palavra = input()
 
 if palavra == "vertebrado":
