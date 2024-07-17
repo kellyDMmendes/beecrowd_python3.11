@@ -1,4 +1,4 @@
-""" b_1074 - Par ou Ímpar """
+""" 1074 - Par ou Ímpar """
 CONT = 0
 n = int(input())
 
