@@ -1,4 +1,4 @@
-""" b_1097 - Sequencia IJ 3 """
+""" 1097 - Sequencia IJ 3 """
 
 i = 1
 j = J = 7
