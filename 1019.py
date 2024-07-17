@@ -1,4 +1,4 @@
-""" b_1019 - Conversão de Tempo """
+""" 1019 - Conversão de Tempo """
 HORA = 0
 MINUTO = 0
 SEGUNDO = 0
