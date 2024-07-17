@@ -1,4 +1,4 @@
-""" b_1037 - Intervalo """
+""" 1037 - Intervalo """
 num = float(input())
 
 if num >= 0 and num <= 25:
