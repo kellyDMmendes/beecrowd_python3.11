@@ -1,4 +1,4 @@
-""" b_1015 - Distância Entre Dois Pontos """
+""" 1015 - Distância Entre Dois Pontos """
 from math import sqrt
 
 x1, y1 = input().split()
