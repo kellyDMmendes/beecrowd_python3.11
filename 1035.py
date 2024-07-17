@@ -1,4 +1,4 @@
-""" b_1035 - Teste de Seleção 1 """
+""" 1035 - Teste de Seleção 1 """
 a, b, c, d = input().split()
 a = int(a)
 b = int(b)
