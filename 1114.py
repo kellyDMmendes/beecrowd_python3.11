@@ -1,4 +1,4 @@
-""" b_1114 - Senha Fixa """
+""" 1114 - Senha Fixa """
 SENHA = 2002
 senha = int(input())
 while senha != SENHA:
