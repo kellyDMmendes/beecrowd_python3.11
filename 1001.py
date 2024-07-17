@@ -1,4 +1,4 @@
-""" b_1001 - Extremamente Básico """
+""" 1001 - Extremamente Básico """
 a = int(input())
 b = int(input())
 
